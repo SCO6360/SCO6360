@@ -1,6 +1,6 @@
 # Hi, I'm Nick 👋
 
-I'm the founder of [Thyrss.ai](https://thyrss.com), based in Indiana. I came to coding late and I'm making up for it by building things: AI tools for HVAC and small business, productivity apps, and the occasional game.
+I'm based in Indiana and do AI consulting through [Thyrss.ai](https://thyrss.com). I came to coding late and I'm making up for it by building things: AI tools for HVAC and small business, productivity apps, and the occasional game.
 
 ### What I'm working on
 - 🤖 **AI tools for business**: chatbots, research agents and RAG pipelines
